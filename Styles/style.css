@@ -43,3 +43,9 @@ header nav ul li a:hover {
 
   color: #777777;
 }
+.bg-green {
+  background-color: #72bda3;
+}
+.bg-gray-custom {
+  background-color: #eeeeee;
+}
