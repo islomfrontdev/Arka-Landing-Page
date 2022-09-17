@@ -49,3 +49,7 @@ header nav ul li a:hover {
 .bg-gray-custom {
   background-color: #eeeeee;
 }
+.shopify i,
+.shopify h6 {
+  opacity: 0.4;
+}
